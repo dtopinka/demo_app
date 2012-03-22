@@ -1,0 +1,18 @@
+--- 
+cursor_positions: 
+  - :path: .gitignore
+    :cursor_offset: 74
+    :timestamp: 2012-03-22 16:47:00.679000 -05:00
+  - :path: app/models/user.rb
+    :cursor_offset: 59
+    :timestamp: 2012-03-22 17:23:05.379000 -05:00
+  - :path: app/models/micropost.rb
+    :cursor_offset: 58
+    :timestamp: 2012-03-22 17:23:08.599000 -05:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 703
+    :timestamp: 2012-03-22 16:50:29.072000 -05:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-22 17:10:14.639000 -05:00
+files_to_retain: 0
